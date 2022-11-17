@@ -16,7 +16,7 @@
   "author": "Nirav joshi",
   "license": "ISC",
   "devDependencies": {
-    "@angular/cli": "^1.6.6",
+    "@angular/cli": "^15.0.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.1.0",
     "gulp-concat": "^2.6.1",
